@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\my\\New folder\\ME\\courses\\HOW TO Learn\\Coding\\A. Watermelon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9178ED3-507A-4969-99B0-09EE2E90E516}|A. Watermelon.vcxproj|D:\\my\\New folder\\ME\\courses\\HOW TO Learn\\Coding\\A. Watermelon\\A. Watermelon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9178ED3-507A-4969-99B0-09EE2E90E516}|A. Watermelon.vcxproj|solutionrelative:A. Watermelon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A. Watermelon.cpp",
+              "DocumentMoniker": "D:\\my\\New folder\\ME\\courses\\HOW TO Learn\\Coding\\A. Watermelon\\A. Watermelon.cpp",
+              "RelativeDocumentMoniker": "A. Watermelon.cpp",
+              "ToolTip": "D:\\my\\New folder\\ME\\courses\\HOW TO Learn\\Coding\\A. Watermelon\\A. Watermelon.cpp",
+              "RelativeToolTip": "A. Watermelon.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T19:40:27.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
